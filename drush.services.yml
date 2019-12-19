@@ -1,0 +1,6 @@
+services:
+  qr_code.commands:
+    class: \Drupal\qr_code\Commands\QrCodeCommands
+    arguments: ['@entity_type.manager', '@stream_wrapper_manager']
+    tags:
+      - { name: drush.command }

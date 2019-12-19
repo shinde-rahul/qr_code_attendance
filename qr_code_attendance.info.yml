@@ -1,0 +1,6 @@
+name: qr_code_attendance
+type: module
+description: QR code based attendance for events
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9

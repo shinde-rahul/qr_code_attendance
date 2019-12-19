@@ -1,0 +1,3 @@
+administer qr_code_attendance configuration:
+  title: 'Administer qr_code_attendance configuration'
+  restrict access: true

@@ -1,0 +1,23 @@
+{
+    "name": "shinde-rahul/qr_code_attendance",
+    "type": "drupal-module",
+    "description": "Provides QR code genration for entities such as users.",
+    "keywords": ["Drupal"],
+    "homepage": "https://github.com/shinde-rahul/qr_code_attendance/issues",
+    "authors": [
+        {
+            "name": "Rahul Shinde",
+            "email": "shinde.r.a@gmail.com",
+            "homepage": "https://www.rahulshinde.name/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/shinde-rahul/qr_code_attendance/issues",
+        "source": "https://github.com/shinde-rahul/qr_code_attendance"
+    },
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "endroid/qr-code": "^3.7"
+    }
+}
